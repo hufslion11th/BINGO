@@ -7,7 +7,7 @@
 
 ## 1. issue 템플릿을 따라 나만의 issue를 생성 합니다.
 
-<img width="1764" alt="image" src="">
+<img width="1764" alt="image" src="![github_1](https://user-images.githubusercontent.com/101918644/225935582-7003701b-552c-457b-bd6b-3cf8ff345de9.png)">
 
 <img width="1800" alt="image" src="">
 
