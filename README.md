@@ -7,11 +7,10 @@
 
 ## 1. issue 템플릿을 따라 나만의 issue를 생성 합니다.
 
-<img width="1764" alt="image" src="![github_1](https://user-images.githubusercontent.com/101918644/225935582-7003701b-552c-457b-bd6b-3cf8ff345de9.png)">
+- 생성된 이슈 : [예시/김멋사](https://github.com/hufslion11th/BINGO/issues/2)
 
-<img width="1800" alt="image" src="">
-
-- 생성된 이슈 : [예시/김멋사](https://github.com/hufslion10th/bingo/issues/1)
+- 빙고판 양식 :
+![likelion-11th-bingo](https://user-images.githubusercontent.com/60145951/159075020-816d28ff-d829-4d05-821d-524f1cfac48f.png)
 
 > 우리 같이 빙고해요!
 
@@ -37,20 +36,19 @@
 
 
 ## 3. 내 이름으로 된 issue로 돌아가 댓글을 달고, 운영진을 태그합니다.
-<img width="1166" alt="image" src="">
+<img width="773" alt="sample2" src="https://user-images.githubusercontent.com/81296203/226083540-e3041b24-5007-46fb-bf1d-643603f9ee01.png">
+
 
 ### 필요 조건
 1. 완료한 미션의 번호
 2. 미션을 완료한 후 찍은 스크린샷: 운영진이 확인만 할 수 있으면 됩니다!
 3. 미션을 확인해줄 운영진 아무나!
 
-## 4. (운영진) 완료한 미션 번호에 사인을 하고, 답글을 답니다.
-
-<img width="1173" alt="image" src="">
+## 4. (운영진) 완료한 미션 번호에 이모지를 달고, 답글을 답니다.
 
 ## 5. 2로 돌아가 반복하다가, 빙고를 달성하면 운영진을 태그합니다.
 
 - :rocket: 숨겨진 미션들도 있으니 조급해하지 마세요!
 
-## 6. 빙고를 모두 완성하면 운영진이 밥 사줄 겁니다.
+## 6. 빙고를 모두 완성하면 운영진이 밥!! 뭐든지 사드립니다.(모현에서)
 
